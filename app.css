@@ -116,7 +116,7 @@ body {
     border-radius: 0.85rem;
     /* padding-block: 1.5rem;
     padding-inline: .35rem; */
-    padding-block: calc(1.5em + 1.5%);
+    padding-block: calc(1.42em + 1.45%);
     padding-inline: calc(0.25em + 1.35%);
 }
 
@@ -135,12 +135,12 @@ h2 {
 
 .card h3 {
     color:hsl(75, 94%, 57%);
-    margin-bottom: 1em;
+    margin-bottom: 1.15em;
     font-size: .875rem;
 }
 
 .card p {
-    margin-bottom: 0.7em;
+    margin-bottom: 0.75em;
     color: hsla(0, 0%, 100%, 0.85);
     text-align: center;
 }
@@ -189,8 +189,8 @@ li:hover {
 @media (min-width: 48em) and (max-width: 62em){
  .container {
     max-width: 456px;
-    padding-block: 3em;
-    padding-inline: 1.35em;
+    padding-block: 2.93em;
+    padding-inline: 1.3em;
  }
 
 }
