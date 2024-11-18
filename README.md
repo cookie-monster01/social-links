@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/cookie-monster01/social-links.git]
+- Live Site URL: [https://vercel.com/cookie-monster01s-projects/social-links]
 
 ## My process
 
